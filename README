@@ -3,7 +3,8 @@
 To use the Funny Domain Name Generator in the main console, go to (yjlmotley-Domain-Name-Generator-Project/node.app.js).
 Type "node ./node.app.js" in the console to see the Funny Domain Name Generator at work.
 
-To use the Funny Domain Name Generator in the browser inspector console, go to (yjlmotley-Domain-Name-Generator-Project/src/app.js).
+To use the Funny Domain Name Generator in the browser inspector console, go to (yjlmotley-Domain-Name-Generator-Project/src/app.js) and run the `npm run start` command to
+see the results in the browser inspector console.
 
 
 Please keep in mind that this project was made for the use of a portfolio and entertainment purposes only.
